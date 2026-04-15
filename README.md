@@ -1,0 +1,1 @@
+Sales data analysis By Power BI shows sales, total sales, total profit, and total orders according to the following elements: categories, exhibitions, and months, in order to present them to the Chairman of the Board so that he can make the appropriate decision for the upcoming period.

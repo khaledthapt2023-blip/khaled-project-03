@@ -32,7 +32,7 @@ An interactive Power BI dashboard designed to analyze and track global corporate
 | `dashboard_preview.png` | Dashboard preview screenshot |
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](Sales_Report.png)
 
 ## 🔗 Connect with Me
 [LinkedIn](https://linkedin.com)
